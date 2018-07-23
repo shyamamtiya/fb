@@ -1,0 +1,24 @@
+.col-20{width: 20%}
+.right-side-bar {
+    margin-top: 75px;
+    min-height: 500px;
+    position: fixed;
+  }
+  .circle-name {
+    display: inline-block;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #ddd;
+    vertical-align: baseline;
+}
+.list-tag {
+    border: none;
+    background-color: #e9ebee;
+}
+.main-container {
+    background-color: #e9ebee;
+    min-height: 100vh;
+  }
+  .badge{
+     color:#656565;
+  }
